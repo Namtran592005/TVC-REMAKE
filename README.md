@@ -1,6 +1,6 @@
 <div align="center">
 
-# TVC-REAMKE
+# TVC-REMAKE
 
 **THIẾT KẾ LẠI LOGO TRƯỜNG CAO ĐẲNG NGHỀ TRÀ VINH**
 
